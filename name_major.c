@@ -1,5 +1,5 @@
 /**
- * Author: Reagan Gropp
+ * Author: Christopher Reid
  * Date: 08/23/2018
  *
  * A name and major program in C
@@ -10,7 +10,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Reagan | Computer Science\n");
+  printf("Christopher Reid | Computer Science\n");
 
   return 0;
 }
